@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f4286ed-adef-49fe-86c5-55272d46095b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/turtle/amongus.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/turtle/girasol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/turtle/heart.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator/calc_mod2.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/calc_mod2.py" afterDir="false" />
-    </list>
+    <list default="true" id="3f4286ed-adef-49fe-86c5-55272d46095b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +36,7 @@
     "Python.calc_mod2.executor": "Run",
     "Python.girasol.executor": "Run",
     "Python.heart.executor": "Run",
+    "Python.heart2.executor": "Run",
     "Python.paisaje.executor": "Run",
     "Python.pruebas.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -74,7 +69,7 @@
       <workItem from="1720534344979" duration="29000" />
       <workItem from="1720626502770" duration="786000" />
       <workItem from="1720627562601" duration="1000" />
-      <workItem from="1720708344435" duration="4229000" />
+      <workItem from="1720708344435" duration="4532000" />
     </task>
     <servers />
   </component>
@@ -84,10 +79,11 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/campus_reg_24$calc_mod1.coverage" NAME="calc_mod1 Coverage Results" MODIFIED="1720717183033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/calculator" />
     <SUITE FILE_PATH="coverage/campus_reg_24$pruebas.coverage" NAME="pruebas Coverage Results" MODIFIED="1720709868002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/campus_reg_24$heart2.coverage" NAME="heart2 Coverage Results" MODIFIED="1720724332425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/turtle" />
     <SUITE FILE_PATH="coverage/campus_reg_24$calc_mod2.coverage" NAME="calc_mod2 Coverage Results" MODIFIED="1720717352840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/calculator" />
     <SUITE FILE_PATH="coverage/campus_reg_24$paisaje.coverage" NAME="paisaje Coverage Results" MODIFIED="1720717961774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/turtle" />
     <SUITE FILE_PATH="coverage/campus_reg_24$basic.coverage" NAME="basic Coverage Results" MODIFIED="1720627281780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/campus_reg_24$heart.coverage" NAME="heart Coverage Results" MODIFIED="1720724129442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/turtle" />
+    <SUITE FILE_PATH="coverage/campus_reg_24$heart.coverage" NAME="heart Coverage Results" MODIFIED="1720724235894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/turtle" />
     <SUITE FILE_PATH="coverage/campus_reg_24$girasol.coverage" NAME="girasol Coverage Results" MODIFIED="1720723728856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/turtle" />
     <SUITE FILE_PATH="coverage/campus_reg_24$amongus.coverage" NAME="amongus Coverage Results" MODIFIED="1720723940636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/turtle" />
   </component>
