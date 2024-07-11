@@ -86,6 +86,8 @@ def main():
         resultado = restar(resultado, num2)
       elif operacion == "*":
         resultado = multiplicar(resultado, num2)
+      elif operacion == "X":
+        break
       elif operacion == "/":
         try:
           resultado = dividir(resultado, num2)
